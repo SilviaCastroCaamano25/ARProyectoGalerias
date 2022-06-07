@@ -8,6 +8,6 @@
 
 * 3ª ImageTarget: 2 submarinistas nadando en medio del mar. Los submarinistas (modelos que tienen una animación de nadar) están rodeados de varios bancos de peces que tienen una animación, hay una barquito que se mueve y con particulas detrás.
 
-Los modelos fueron sacados de la tienda.
+Los modelos fueron sacados de la tienda de Unity.
 
  > Creado en Unity versión 2018.4.35f1 (64-bit) con el paquete de Vuforia Engine.
